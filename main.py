@@ -1,3 +1,9 @@
+# DATOS: 
+# Nombre: Ortega Plaza Diego
+# Cuatrimestre:6to
+# Carrera :Ing. Desarrollo de Software
+# Matricula: 2403230009
+
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from data.animes import animes
