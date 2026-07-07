@@ -1,0 +1,21 @@
+# Pa quitar el entorno virtual
+venv/
+env/
+.venv/
+
+# Cache de Python
+_pycache_/
+**/_pycache_/
+*.pyc
+*.pyo
+
+# Variables de entorno 
+.env
+
+# Archivos de configuración
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+Thumbs.db
